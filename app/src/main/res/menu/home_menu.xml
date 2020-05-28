@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@mipmap/mod_home"
+        android:title="@string/home_page" />
+
+    <item
+        android:id="@+id/MyWorkOrderFragment"
+        android:icon="@mipmap/mod_order"
+        android:title="@string/order" />
+
+    <item
+        android:id="@+id/StockFragment"
+        android:icon="@mipmap/icon_tapbar_customerservice_s"
+        android:title="@string/zx" />
+
+    <item
+        android:id="@+id/SettingFragment"
+        android:icon="@mipmap/mod_setting"
+        android:title="@string/setting_title" />
+
+</menu>
